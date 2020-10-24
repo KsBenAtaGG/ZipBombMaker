@@ -41,7 +41,7 @@ if __name__ == '__main__':
 		exit()
 	n_levels = int(sys.argv[1])
 	out_zip_file = sys.argv[2]
-	dummy_name = 'dummy.txt'
+	dummy_name = '0.txt'
 	start_time = time.time()
 	generate_dummy_file(dummy_name,1)
 	level_1_zip = '1.zip'
