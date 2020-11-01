@@ -2,6 +2,7 @@
 
 # Notice:
 maker.py running in Kali Linux
+The responsibility for the misuse of this tool belongs entirely to the user!
 
 # Usage:
 maker.py n_levels out_zip_file
