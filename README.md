@@ -1,7 +1,7 @@
 # Zip Bomb Maker
 
 # Notice:
-maker.py running in Kali Linux
+maker.py running in Kali Linux, Parrot
 
 The responsibility for the misuse of this tool belongs entirely to the user!
 
